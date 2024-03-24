@@ -6,6 +6,10 @@ Repositório destinado a materiais para turmas de Arduino UTFPR 2024
 
 [Aula 01](https://www.canva.com/design/DAF8b0qX30s/v7epe5JdGK1zMPhROOom_Q/edit?utm_content=DAF8b0qX30s&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)   |   [Slide 01](https://www.canva.com/design/DAF9vqSSc00/_ZUEchPJ6_tUoG99OHJQ6g/edit?utm_content=DAF9vqSSc00&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)   |   [Atividade 01] ()
 
+**Projetos no TinkerCad**
+
+[Exemplo 01](https://www.tinkercad.com/things/lJ30BBTCYxN-aula01projetotinkercad?sharecode=E2hkb_A7f_qCioquJLzlj8eQCR-QiJYIDZV0ISMEgKI)  |  [Laboratorio 01](https://www.tinkercad.com/things/3aaAinFtJqN-laboratorio101?sharecode=y0ZYXxtK2rSjwmRmtn_X2GBjhHLkGOnvMD7wv2Rxozo)
+
 **________________________________________**
 
 **Aula 02**
