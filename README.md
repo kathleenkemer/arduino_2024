@@ -56,6 +56,8 @@
 
 **_Projetos no TinkerCad_**
 
+[Exemplo 01](https://www.tinkercad.com/things/htims4Gs1HD-exemplo6-01display7?sharecode=KnOicYK-PRgg2Hzf-XnIQC4iGScVcQt0I8ed147Hn1E)  | [Exemplo 02](https://www.tinkercad.com/things/h76tVJbHW8D-exemplo6-02buzzer?sharecode=4n24U3Y3kxQQQL-sDaaelpgrmgT_pgKg3x7w-ZYf8po)  |  [Laboratorio 01](https://www.tinkercad.com/things/hLvNruqHxml-laboratorio601?sharecode=JLCCMCA-JvlIBWgbazFRfUAOVFD5YyAnjINspN0QtP8)  |  [Laboratorio 02](https://www.tinkercad.com/things/c9tDcuAePFz-laboratorio602?sharecode=nrFlQt3Y5HWOJqEhLkTYSJbTwnOAXm0R5LvfKJidbVM)  |  [Laboratorio 03](https://www.tinkercad.com/things/82H53qlnyut-laboratorio603?sharecode=cYMme4TzlreQhDxdUA3JUw70z4nkQ0bO_5C6BzkBBmM)
+
 **__________________________________________________________________________________________________________________**
 
 ### **Aula 07** <h3>
@@ -64,6 +66,8 @@
 
 **_Projetos no TinkerCad_**
 
+[Exemplo 01](https://www.tinkercad.com/things/8zSzS75135M-exemplo7-01-displaylcd?sharecode=WhAsbKAgG7_1bulUTosGbispuys_nHHpY8v76HGkfHs)  |  [Exemplo 02](https://www.tinkercad.com/things/kMnxkW5Yt3N-exemplo7-02-displaylcd0-caracteres?sharecode=8hFcExmVdLF0BGW8LBPIJrVR7WIyP5FotYg7lF5RJ0I)  |  [Exemplo 03](https://www.tinkercad.com/things/cd0gDghuB9W-exemplo7-03-temp?sharecode=zlQ-rYkL18Fyv-gwUjrCLGVygffLMCeYLXCU6Gt256U)  |  [Laboratorio 01](https://www.tinkercad.com/things/h7wsSuk0dwl-laboratorio701?sharecode=SJhzUeVBva7QMwuOc1TsiWg9HdBahZ6F4d67N1XorEg)  |  [Laboratorio 02](https://www.tinkercad.com/things/lOWJxWX2Jrm-laboratorio702?sharecode=MWmshb2jcEq63ZHaMe6rXpo1vr0hafHX8jXNA2hFf5Q)
+
 **__________________________________________________________________________________________________________________**
 
 ### **Aula 08** <h3>
@@ -71,6 +75,8 @@
 [Aula 08](https://www.canva.com/design/DAF8b2J-kFI/KF8tTTuiwMWnMjCDL2ME0w/edit?utm_content=DAF8b2J-kFI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)   |   [Slide 08](https://www.canva.com/design/DAF976De5PU/-uNRxKYLgLwGrdWH0u__qQ/edit?utm_content=DAF976De5PU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)   |   [Atividade 08] ()
 
 **_Projetos no TinkerCad_**
+
+[Exemplo 01](https://www.tinkercad.com/things/auE6gtUB6Dm-exemplo801-ldr?sharecode=LNJ_PuP1W9yBx3oO0AOJofCP_V04ibrY_dpYLEwXX-w)  |  [Exemplo 02](https://www.tinkercad.com/things/d9M9WmjiMsa-exemplo802-ultrassonico?sharecode=XaFu7SOsSQidPOBV1OsoQ1yCTU9wgch9rFAzU2f2MKc)  |  [Laboratorio 01](https://www.tinkercad.com/things/4X59EPGZnKH-laboratorio801?sharecode=WYdTiFj3Siul_u58QoDxuh6Nd-fpGRmC-3HGVeq-Ej0)  |  [Laboratorio 02](https://www.tinkercad.com/things/2WqUd7dwcXf-laboratorio802?sharecode=k0qBvQateSKMdSZJmT-rBsePZDsRsH8LrMN9bJcnR38)  |  [Laboratorio 03](https://www.tinkercad.com/things/64hwc6HM1pn-laboratorio803?sharecode=J_NvrUXzDuoAY4SZKIrA56B57slmX6YqnQb3xnfPtiE)
 
 **__________________________________________________________________________________________________________________**
 
